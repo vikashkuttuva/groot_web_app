@@ -8,7 +8,7 @@ click on box
 ![](src/frontpage.jpeg)
 
 select a .csv file
-![](src/upoad flie.jpeg)
+![](src/upoad%20flie.jpeg)
 
 
 the cvs is parsed to objects which can be seen in console
